@@ -1,2 +1,2 @@
-# SayTahminEtme
+# SayıTahminEtme
  Ödev
