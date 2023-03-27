@@ -1,0 +1,2 @@
+# SayTahminEtme
+ Ödev
